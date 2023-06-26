@@ -12,3 +12,7 @@ First release
 ## [0.0.2] - 2023-04-12
 
 Updated readme with screenshot and removed provisional colours from theme
+
+## [0.0.3] - 2023-04-12
+
+Changed screenshot path
