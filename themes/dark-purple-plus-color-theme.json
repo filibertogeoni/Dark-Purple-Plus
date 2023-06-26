@@ -119,13 +119,6 @@
 		"titleBar.inactiveForeground": "#EEDFF575",
 		"tree.indentGuidesStroke": "#744da9",
 		"pickerGroup.foreground": "#744da9",
-		"banner.background": "#ff0000",
-		"editorInfo.background": "#ffff00",
-		"debugToolBar.background": "#00ff00",
-		"list.deemphasizedForeground": "#00ff80",
-		"editorPane.background": "#00ffff",
-		"textCodeBlock.background": "#8000ff",
-		"list.invalidItemForeground": "#ff00ff",
 	},
 	"name": "Dark Purple+",
 	"semanticTokenColors": {
