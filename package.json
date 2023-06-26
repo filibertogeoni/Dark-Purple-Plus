@@ -2,7 +2,7 @@
   "name": "darkpurpleplus",
   "displayName": "Dark Purple+",
   "description": "Purple theme for VSCode based on Dark+",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.76.0"
   },
