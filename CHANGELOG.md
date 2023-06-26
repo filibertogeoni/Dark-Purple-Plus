@@ -20,3 +20,7 @@ Changed screenshot path
 ## [0.0.4] - 2023-05-24
 
 Add debug toolbar theming
+
+## [0.0.5] - 2023-06-26
+
+Replace readme screenshot
